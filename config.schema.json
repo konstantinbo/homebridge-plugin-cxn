@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "CambridgeAudioCXN",
   "pluginType": "platform",
   "singular": true,
   "schema": {
